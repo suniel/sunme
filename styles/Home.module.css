@@ -55,7 +55,6 @@
 
 @media (max-width: 600px) {
 	.main {
-		background: red;
 		padding: 0;
 	}
 	.grid {
