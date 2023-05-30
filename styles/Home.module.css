@@ -45,20 +45,9 @@
 	margin-top: 8px;
 }
 
-.grid {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	flex-wrap: wrap;
-	max-width: 800px;
-}
-
 @media (max-width: 600px) {
 	.main {
-		padding: 0;
-	}
-	.grid {
-		width: 100%;
-		flex-direction: column;
+		padding: 2rem 0;
+		height: 86vh;
 	}
 }
